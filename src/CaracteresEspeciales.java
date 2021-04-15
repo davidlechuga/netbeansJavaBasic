@@ -10,7 +10,7 @@
  */
 public class CaracteresEspeciales {
     public static void main (String args[]) {
-        var nombres = " Eli y David ";
+        var nombres = "  Eli y David  ";
         
         System.out.println("Nueva linea : \n" + nombres);
         System.out.println("Tabulador : \t" + nombres);

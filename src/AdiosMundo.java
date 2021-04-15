@@ -4,8 +4,9 @@ public class AdiosMundo {
     public static void main(String args[]) {
         var usuario = "David";
         var titulo = "Politólogo";
+        var despedida = "Adios mundo";
 
-        var union = titulo + " " + usuario;
+        var union = despedida + " " +  titulo + " " + usuario;
         System.out.println("union = " + union);
 
         var i = 3;
